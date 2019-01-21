@@ -15,6 +15,8 @@ public class A {
 			System.out.println(elements.get(i).getText());
 			
 		}
+		public void gitTry(){
+		}
 	}
 
 }
